@@ -443,5 +443,15 @@
     "title": "Гризуни",
     "vpId": 1152,
     "masterzooId": 1097
+  },
+    {
+    "title": "Мерч", 
+    "vpId": 1308,
+    "masterzooId": 1388
+  },
+  {
+    "title": "Мерч",
+    "vpId": 1309,
+    "masterzooId": 1389
   }
 ]
